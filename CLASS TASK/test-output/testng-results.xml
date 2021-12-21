@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101547" started-at="2021-12-20T22:13:03 IST" finished-at="2021-12-20T22:14:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101547" started-at="2021-12-20T22:13:03 IST" finished-at="2021-12-20T22:14:45 IST">
+      <class name="Task.Class.MercuryTours">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="OpenBrowser" is-config="true" duration-ms="13673" started-at="2021-12-20T22:12:50 IST" finished-at="2021-12-20T22:13:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="EnterUrl()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="EnterUrl" is-config="true" duration-ms="16744" started-at="2021-12-20T22:13:03 IST" finished-at="2021-12-20T22:13:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUrl -->
+        <test-method status="PASS" signature="MaxWindow()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="MaxWindow" is-config="true" duration-ms="231" started-at="2021-12-20T22:13:20 IST" finished-at="2021-12-20T22:13:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MaxWindow -->
+        <test-method status="PASS" signature="Screenshot()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot" is-config="true" duration-ms="1577" started-at="2021-12-20T22:13:22 IST" finished-at="2021-12-20T22:13:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Register" duration-ms="12615" started-at="2021-12-20T22:13:24 IST" data-provider="data" finished-at="2021-12-20T22:13:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHAN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[irfan@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Madh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bombay]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MH]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Screenshot1()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot1" is-config="true" duration-ms="408" started-at="2021-12-20T22:13:36 IST" finished-at="2021-12-20T22:13:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot1 -->
+        <test-method status="PASS" signature="Screenshot()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot" is-config="true" duration-ms="2918" started-at="2021-12-20T22:13:37 IST" finished-at="2021-12-20T22:13:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Register" duration-ms="11591" started-at="2021-12-20T22:13:40 IST" data-provider="data" finished-at="2021-12-20T22:13:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHAN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[irfan@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Madh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bombay]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MH]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Screenshot1()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot1" is-config="true" duration-ms="423" started-at="2021-12-20T22:13:52 IST" finished-at="2021-12-20T22:13:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot1 -->
+        <test-method status="PASS" signature="Screenshot()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot" is-config="true" duration-ms="4376" started-at="2021-12-20T22:13:52 IST" finished-at="2021-12-20T22:13:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Register" duration-ms="11850" started-at="2021-12-20T22:13:57 IST" data-provider="data" finished-at="2021-12-20T22:14:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHAN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[irfan@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Madh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bombay]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MH]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Screenshot1()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot1" is-config="true" duration-ms="3708" started-at="2021-12-20T22:14:09 IST" finished-at="2021-12-20T22:14:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot1 -->
+        <test-method status="PASS" signature="Screenshot()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot" is-config="true" duration-ms="422" started-at="2021-12-20T22:14:12 IST" finished-at="2021-12-20T22:14:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Register" duration-ms="13047" started-at="2021-12-20T22:14:13 IST" data-provider="data" finished-at="2021-12-20T22:14:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHAN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[irfan@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Madh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bombay]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MH]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Screenshot1()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot1" is-config="true" duration-ms="383" started-at="2021-12-20T22:14:26 IST" finished-at="2021-12-20T22:14:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot1 -->
+        <test-method status="PASS" signature="Screenshot()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot" is-config="true" duration-ms="2853" started-at="2021-12-20T22:14:26 IST" finished-at="2021-12-20T22:14:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Register" duration-ms="11057" started-at="2021-12-20T22:14:29 IST" data-provider="data" finished-at="2021-12-20T22:14:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHAN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[irfan@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Madh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bombay]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MH]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345678990]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[IRFAN]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ABCDEF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Screenshot1()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="Screenshot1" is-config="true" duration-ms="496" started-at="2021-12-20T22:14:40 IST" finished-at="2021-12-20T22:14:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot1 -->
+        <test-method status="PASS" signature="CookiesDelete()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="CookiesDelete" is-config="true" duration-ms="4048" started-at="2021-12-20T22:14:41 IST" finished-at="2021-12-20T22:14:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookiesDelete -->
+        <test-method status="PASS" signature="DbcollectionClosed()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="DbcollectionClosed" is-config="true" duration-ms="0" started-at="2021-12-20T22:14:45 IST" finished-at="2021-12-20T22:14:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DbcollectionClosed -->
+        <test-method status="PASS" signature="BrowserClosed()[pri:0, instance:Task.Class.MercuryTours@58c1670b]" name="BrowserClosed" is-config="true" duration-ms="0" started-at="2021-12-20T22:14:45 IST" finished-at="2021-12-20T22:14:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClosed -->
+      </class> <!-- Task.Class.MercuryTours -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
